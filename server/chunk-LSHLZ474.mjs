@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{Ha as i,Ia as a,Ma as r,Qa as s,T as n}from"./chunk-I7XUOPPV.mjs";import"./chunk-KRLCULJA.mjs";var d=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-book-list"]],standalone:!0,features:[s],decls:2,vars:0,template:function(o,p){o&1&&(i(0,"p"),r(1,"book-list works!"),a())}});let t=e;return t})();export{d as default};
